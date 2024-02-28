@@ -1,0 +1,72 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2024-02-27 10:16:32
+count workspace : d:\Fullstack_Projects\mern-estate
+total files : 48
+total code lines : 10227
+total comment lines : 1692
+total blank lines : 236
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |            .js|            879|           1673|             84|    8.6|
+   |           .cjs|             20|              0|              0|   0.20|
+   |          .json|           7359|              0|             66|     72|
+   |               |             18|             10|              3|   0.18|
+   |          .html|             25|              0|              1|   0.24|
+   |            .md|              5|              2|              3|  0.049|
+   |           .jsx|           1914|              6|             78|     19|
+   |           .css|              7|              1|              1|  0.068|
+   -------------------------------------------------------------------------
+.env, code is 3, comment is 1, blank is 1.
+.gitignore, code is 14, comment is 9, blank is 2.
+api\controllers\auth.controller.js, code is 75, comment is 0, blank is 4.
+api\controllers\listing.controller.js, code is 93, comment is 0, blank is 21.
+api\controllers\user.controller.js, code is 67, comment is 0, blank is 12.
+api\index.js, code is 40, comment is 0, blank is 10.
+api\models\listing.model.js, code is 60, comment is 0, blank is 3.
+api\models\user.model.js, code is 26, comment is 0, blank is 3.
+api\routes\auth.route.js, code is 8, comment is 0, blank is 3.
+api\routes\listing.route.js, code is 10, comment is 0, blank is 3.
+api\routes\user.route.js, code is 10, comment is 0, blank is 4.
+api\utils\error.js, code is 6, comment is 0, blank is 0.
+api\utils\verifyUser.js, code is 11, comment is 0, blank is 4.
+assets\villa.jpg, it is a binary file.
+client\.env, code is 1, comment is 0, blank is 0.
+client\.eslintrc.cjs, code is 20, comment is 0, blank is 0.
+client\dist\assets\index-0cf61e91.js, code is 340, comment is 1647, blank is 0.
+client\dist\assets\index-7790ab6f.css, code is 1, comment is 1, blank is 0.
+client\dist\index.html, code is 13, comment is 0, blank is 1.
+client\index.html, code is 12, comment is 0, blank is 0.
+client\package-lock.json, code is 5105, comment is 0, blank is 65.
+client\package.json, code is 38, comment is 0, blank is 0.
+client\postcss.config.js, code is 6, comment is 0, blank is 0.
+client\README.md, code is 5, comment is 2, blank is 3.
+client\src\App.jsx, code is 35, comment is 0, blank is 2.
+client\src\components\Contact.jsx, code is 49, comment is 0, blank is 3.
+client\src\components\Header.jsx, code is 73, comment is 0, blank is 2.
+client\src\components\ListingItem.jsx, code is 50, comment is 0, blank is 2.
+client\src\components\OAuth.jsx, code is 41, comment is 0, blank is 3.
+client\src\components\PrivateRoute.jsx, code is 6, comment is 0, blank is 1.
+client\src\firebase.js, code is 11, comment is 23, blank is 6.
+client\src\index.css, code is 6, comment is 0, blank is 1.
+client\src\main.jsx, code is 14, comment is 0, blank is 1.
+client\src\pages\About.jsx, code is 13, comment is 0, blank is 1.
+client\src\pages\CreateListing.jsx, code is 363, comment is 0, blank is 9.
+client\src\pages\Home.jsx, code is 65, comment is 0, blank is 2.
+client\src\pages\Listing.jsx, code is 149, comment is 1, blank is 4.
+client\src\pages\Profile.jsx, code is 271, comment is 5, blank is 17.
+client\src\pages\Search.jsx, code is 248, comment is 0, blank is 16.
+client\src\pages\SignIn.jsx, code is 79, comment is 0, blank is 2.
+client\src\pages\SignUp.jsx, code is 83, comment is 0, blank is 2.
+client\src\pages\UpdateListing.jsx, code is 375, comment is 0, blank is 11.
+client\src\redux\store.js, code is 19, comment is 0, blank is 5.
+client\src\redux\user\userSlice.js, code is 75, comment is 0, blank is 4.
+client\tailwind.config.js, code is 9, comment is 2, blank is 0.
+client\vite.config.js, code is 13, comment is 1, blank is 2.
+package-lock.json, code is 2191, comment is 0, blank is 1.
+package.json, code is 25, comment is 0, blank is 0.
+===============================================================================

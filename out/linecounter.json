@@ -1,0 +1,348 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "d:\\Fullstack_Projects\\mern-estate",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2024-02-27 10:16:32",
+            "filesum": 48,
+            "codesum": 10227,
+            "commentsum": 1692,
+            "blanksum": 236,
+            "statistics": {
+                ".js": {
+                    "code": 879,
+                    "comment": 1673,
+                    "blank": 84
+                },
+                ".cjs": {
+                    "code": 20,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".json": {
+                    "code": 7359,
+                    "comment": 0,
+                    "blank": 66
+                },
+                "": {
+                    "code": 18,
+                    "comment": 10,
+                    "blank": 3
+                },
+                ".html": {
+                    "code": 25,
+                    "comment": 0,
+                    "blank": 1
+                },
+                ".md": {
+                    "code": 5,
+                    "comment": 2,
+                    "blank": 3
+                },
+                ".jsx": {
+                    "code": 1914,
+                    "comment": 6,
+                    "blank": 78
+                },
+                ".css": {
+                    "code": 7,
+                    "comment": 1,
+                    "blank": 1
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 1,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": ".env"
+                },
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 9,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 4,
+                    "code": 75,
+                    "comment": 0,
+                    "filename": "api\\controllers\\auth.controller.js"
+                },
+                {
+                    "blank": 21,
+                    "code": 93,
+                    "comment": 0,
+                    "filename": "api\\controllers\\listing.controller.js"
+                },
+                {
+                    "blank": 12,
+                    "code": 67,
+                    "comment": 0,
+                    "filename": "api\\controllers\\user.controller.js"
+                },
+                {
+                    "blank": 10,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "api\\index.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 60,
+                    "comment": 0,
+                    "filename": "api\\models\\listing.model.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "api\\models\\user.model.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "api\\routes\\auth.route.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "api\\routes\\listing.route.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "api\\routes\\user.route.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "api\\utils\\error.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "api\\utils\\verifyUser.js"
+                },
+                {
+                    "filename": "assets\\villa.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "client\\.env"
+                },
+                {
+                    "blank": 0,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "client\\.eslintrc.cjs"
+                },
+                {
+                    "blank": 0,
+                    "code": 340,
+                    "comment": 1647,
+                    "filename": "client\\dist\\assets\\index-0cf61e91.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 1,
+                    "filename": "client\\dist\\assets\\index-7790ab6f.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "client\\dist\\index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "client\\index.html"
+                },
+                {
+                    "blank": 65,
+                    "code": 5105,
+                    "comment": 0,
+                    "filename": "client\\package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "client\\package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "client\\postcss.config.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 5,
+                    "comment": 2,
+                    "filename": "client\\README.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "client\\src\\App.jsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 49,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\Contact.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 73,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\Header.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 50,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\ListingItem.jsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 41,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\OAuth.jsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "client\\src\\components\\PrivateRoute.jsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 11,
+                    "comment": 23,
+                    "filename": "client\\src\\firebase.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "client\\src\\index.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "client\\src\\main.jsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "client\\src\\pages\\About.jsx"
+                },
+                {
+                    "blank": 9,
+                    "code": 363,
+                    "comment": 0,
+                    "filename": "client\\src\\pages\\CreateListing.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 65,
+                    "comment": 0,
+                    "filename": "client\\src\\pages\\Home.jsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 149,
+                    "comment": 1,
+                    "filename": "client\\src\\pages\\Listing.jsx"
+                },
+                {
+                    "blank": 17,
+                    "code": 271,
+                    "comment": 5,
+                    "filename": "client\\src\\pages\\Profile.jsx"
+                },
+                {
+                    "blank": 16,
+                    "code": 248,
+                    "comment": 0,
+                    "filename": "client\\src\\pages\\Search.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 79,
+                    "comment": 0,
+                    "filename": "client\\src\\pages\\SignIn.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 83,
+                    "comment": 0,
+                    "filename": "client\\src\\pages\\SignUp.jsx"
+                },
+                {
+                    "blank": 11,
+                    "code": 375,
+                    "comment": 0,
+                    "filename": "client\\src\\pages\\UpdateListing.jsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "client\\src\\redux\\store.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 75,
+                    "comment": 0,
+                    "filename": "client\\src\\redux\\user\\userSlice.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 2,
+                    "filename": "client\\tailwind.config.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 1,
+                    "filename": "client\\vite.config.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 2191,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "package.json"
+                }
+            ]
+        }
+    ]
+}
